@@ -8,3 +8,6 @@ layout: home
 # My Blog Index File
 
 a simple test of blog.
+
+[My Pages History](history.md)
+
