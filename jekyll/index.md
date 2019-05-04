@@ -7,3 +7,6 @@ layout: home
 
 My Index Page in Jekyll.
 
+[Learning Notes]({% link history.md %})
+
+---
