@@ -9,10 +9,10 @@ tags: view resume
 Bruce Zhong
 ============
 
-E-mail     | xzhong86@gmail.com
----------    | ------------------------------
-Phone     |   086-1xx 0128 4096
-Location  |  Beijing
+E-mail     |  xzhong86@gmail.com
+---------  | ------------------------------
+Phone      |  086-1xx 0128 4096
+Location   |  Beijing
 
 Education
 ---------
@@ -46,6 +46,12 @@ Programming Languages
 * Ruby: 5+ Years (Major Script now)
 * Emacs/Vim: over 10 years
 
+Other Skills
+---------------
+*  Human Language:
+  * Chinese: native language
+  * English:
+*  
 
 [Work Experience](work_experience.md)
 
