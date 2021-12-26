@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 ROOT=..
 
@@ -10,7 +10,7 @@ function mylink {
 
 mylink $ROOT/posts   _posts
 mylink $ROOT/drafts  _drafts
-mylink $ROOT/view	   view
+mylink $ROOT/view    view
 
 
 # run jekyll serve

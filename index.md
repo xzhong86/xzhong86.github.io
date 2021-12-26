@@ -9,5 +9,5 @@ layout: home
 
 a simple test of blog.
 
-[My Pages History](history.md)
+[My Pages History](history.html)
 
